@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+}
+
+#gif {
+    position: "absolute";
+    left: 10px;
+    top: 10px;
+}
